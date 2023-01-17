@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dersde 2 c task/1.0.0": {
+        "runtime": {
+          "dersde 2 c task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dersde 2 c task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
